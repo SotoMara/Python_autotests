@@ -1,6 +1,7 @@
 {
     "python.testing.pytestArgs": [
-        "SeleniumTest"
+        "SeleniumTest",
+        "--alluredir=my_allure_results"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
