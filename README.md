@@ -1,2 +1,2 @@
 # Python_autotests
-Пример автотестов на pytest + requests + Selenium
+Пример автотестов на pytest + requests + selenium
